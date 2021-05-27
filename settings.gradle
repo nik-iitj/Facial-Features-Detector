@@ -1,0 +1,2 @@
+rootProject.name = "Face your Face"
+include ':app'
